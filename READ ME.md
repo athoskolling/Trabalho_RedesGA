@@ -22,7 +22,7 @@ A Web server developed in **Python**, using **TCP Sockets** directly to receive 
 ## ▶️ How to Run
 
 ```bash
-python servidor.py
+python servidor_web.py
 ```
 
 Then open a browser and access:
