@@ -22,7 +22,7 @@ Servidor Web desenvolvido em **Python**, utilizando diretamente **Sockets TCP** 
 ## ▶️ Como executar
 
 ```bash
-python servidor.py
+python servidor_web.py
 ```
 
 Depois, acesse no navegador:
